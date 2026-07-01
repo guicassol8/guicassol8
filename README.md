@@ -52,26 +52,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guicassol8&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Guilherme's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicassol8&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicassol8&radius=16&theme=react-dark&area=true&order=5&custom_title=Minhas%20Contribuições%20Recentes" height="300" alt="activity-graph" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermerothcassol" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:guicassol9@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/guicassol8" target="_blank">
