@@ -1,8 +1,7 @@
-# Olá, eu sou o Guilherme Cassol 👋
-
-<p align="left">
+<div align="center">
+  <h1>Olá, eu sou o Guilherme Cassol 👋</h1>
   <strong>Full Stack Developer @ Oryza Labs</strong> · Porto Alegre, Brazil 🇧🇷
-</p>
+</div>
 
 ---
 
@@ -38,6 +37,8 @@
 
 ### 🛠️ Technologies & Tools
 
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -47,11 +48,39 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guicassol8&show_icons=true&theme=dark&hide_border=true" alt="Guilherme's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicassol8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guicassol8&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Guilherme's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicassol8&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guicassol8&radius=16&theme=react-dark&area=true&order=5&custom_title=Minhas%20Contribuições%20Recentes" height="300" alt="activity-graph" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/guicassol8" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=guicassol8&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
